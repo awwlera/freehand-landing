@@ -1,0 +1,10 @@
+.header {
+    .container {
+        padding: 38px 0 45px;
+        border-bottom: 1px solid $grey;
+    }
+
+    &__logo {
+        fill: $white;
+    }
+}

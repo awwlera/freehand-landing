@@ -1,0 +1,22 @@
+.services {
+    padding: 55px 0 69px;
+    
+    &__pseudo-title {
+        color: #7690A8;
+        margin-bottom: 17px;
+    }
+
+    &__title {
+        font-family: nunito_sans, sans-serif;
+        font-weight: 600;
+        font-size: 40px;
+        letter-spacing: 0.2px;
+        margin-bottom: 35px;
+    }
+
+    &__card-holder {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
